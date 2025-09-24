@@ -127,7 +127,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-Screenshot 2025-09-24 105052 - Copy.png
+![alt text](<Screenshot 2025-09-24 105052 - Copy.png>)
+
 
 
 ## RESULT
